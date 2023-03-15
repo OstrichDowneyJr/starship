@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.14.0](https://github.com/starship/starship/compare/v1.13.1...v1.14.0) (2023-03-15)
+
+
+### Features
+
+* **release:** handle chocolatey starship.portable and starship.install pkg publishing ([#4723](https://github.com/starship/starship/issues/4723)) ([b55774d](https://github.com/starship/starship/commit/b55774d3a68b32c0ed17983adeb6355e75c65f6b))
+
+
+### Bug Fixes
+
+* **fossil_branch:** fossil checkout database file name on windows ([#4978](https://github.com/starship/starship/issues/4978)) ([c07a21d](https://github.com/starship/starship/commit/c07a21d48abe4e01a96a2d1b641876207e8d02fb))
+* **fossil_branch:** use proper fossil checkout database file name on windows ([c07a21d](https://github.com/starship/starship/commit/c07a21d48abe4e01a96a2d1b641876207e8d02fb))
+* **init:** avoid cygpath for starship binary path ([#4970](https://github.com/starship/starship/issues/4970)) ([0ad0465](https://github.com/starship/starship/commit/0ad0465a7a3296b3223693c655f370b7aae0d441))
+* **preset:** add output-flag to avoid encoding issues ([#4926](https://github.com/starship/starship/issues/4926)) ([5e78226](https://github.com/starship/starship/commit/5e78226a3fbe722331f6f0a1d352bbc48d38247f))
+
 ## [1.13.1](https://github.com/starship/starship/compare/v1.13.0...v1.13.1) (2023-02-26)
 
 
